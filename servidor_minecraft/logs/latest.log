@@ -416,3 +416,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Jul2024 16:39:57.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
 [06Jul2024 16:39:57.803] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [06Jul2024 17:00:00.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [The Cutest Predator]
+[06Jul2024 17:18:56.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Take Aim]

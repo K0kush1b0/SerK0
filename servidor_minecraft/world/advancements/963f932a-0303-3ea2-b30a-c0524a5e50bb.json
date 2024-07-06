@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-06-30 01:48:55 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-07-06 17:19:37 +0000",
       "minecraft:taiga": "2024-06-30 03:12:28 +0000",
       "minecraft:frozen_river": "2024-06-30 02:46:41 +0000",
       "quark:glimmering_weald": "2024-07-06 17:07:50 +0000",
@@ -368,6 +369,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2024-07-06 03:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-07-06 17:18:56 +0000"
     },
     "done": true
   },
