@@ -421,3 +421,5 @@ io.netty.channel.StacklessClosedChannelException: null
 [06Jul2024 02:25:47.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
 [06Jul2024 02:25:47.777] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [06Jul2024 02:34:49.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[06Jul2024 03:01:54.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[06Jul2024 03:07:06.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Take Aim]
