@@ -432,3 +432,19 @@ io.netty.channel.StacklessClosedChannelException: null
 [06Jul2024 03:48:58.929] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
 [06Jul2024 03:48:58.964] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
 [06Jul2024 03:49:09.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Husk
+[06Jul2024 04:10:29.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Disconnected
+[06Jul2024 04:10:29.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[06Jul2024 04:12:10.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[06Jul2024 04:12:10.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[06Jul2024 04:12:14.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jul2024 04:12:14.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jul2024 04:12:14.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jul2024 04:12:14.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jul2024 04:12:14.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jul2024 04:12:18.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jul2024 04:12:18.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jul2024 04:12:18.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jul2024 04:12:18.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jul2024 04:12:18.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jul2024 04:12:18.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jul2024 04:12:18.444] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
