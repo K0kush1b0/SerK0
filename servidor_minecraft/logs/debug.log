@@ -4918,3 +4918,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Jul2024 17:18:56.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Take Aim]
 [06Jul2024 17:23:14.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 17:23:14.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 17:28:14.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 17:28:14.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 17:33:14.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 17:33:14.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 17:35:23.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Alex's Caves]
