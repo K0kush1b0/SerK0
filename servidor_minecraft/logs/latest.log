@@ -423,3 +423,4 @@ io.netty.channel.StacklessClosedChannelException: null
 [06Jul2024 02:34:49.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [06Jul2024 03:01:54.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
 [06Jul2024 03:07:06.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Take Aim]
+[06Jul2024 03:15:56.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Hidden in the Depths]
