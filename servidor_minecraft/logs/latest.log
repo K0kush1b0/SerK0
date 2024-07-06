@@ -422,3 +422,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Jul2024 17:50:24.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Magic Writing]
 [06Jul2024 17:55:56.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
 [06Jul2024 17:55:56.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[06Jul2024 17:58:20.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:45251] logged in with entity id 18325 at (-171.82766045796805, 2.0, 1452.7599238077307)
+[06Jul2024 17:58:20.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[06Jul2024 17:58:21.073] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[06Jul2024 18:02:51.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[06Jul2024 18:02:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[06Jul2024 18:07:14.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Cave Centipede
+[06Jul2024 18:07:14.355] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[06Jul2024 18:07:14.367] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[06Jul2024 18:07:44.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shelg0d: Set own game mode to Creative Mode]
+[06Jul2024 18:08:07.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shelg0d: Set own game mode to Survival Mode]
+[06Jul2024 18:08:14.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Cave Centipede
+[06Jul2024 18:08:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [The Most Useful Key]
+[06Jul2024 18:08:30.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has reached the goal [A Fast Comeback]
+[06Jul2024 18:10:18.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Disconnected
+[06Jul2024 18:10:18.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[06Jul2024 18:10:29.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jul2024 18:10:30.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jul2024 18:10:30.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jul2024 18:10:30.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jul2024 18:10:30.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jul2024 18:10:33.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jul2024 18:10:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jul2024 18:10:33.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jul2024 18:10:33.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jul2024 18:10:33.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jul2024 18:10:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jul2024 18:10:34.251] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
