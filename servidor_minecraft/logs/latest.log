@@ -405,3 +405,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Jul2024 16:28:09.336] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12129 ms
 [06Jul2024 16:28:09.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (34.145s)! For help, type "help"
 [06Jul2024 16:28:09.418] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Jul2024 16:36:24.088] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@691677f1[id=<null>,name=lakchapatos,properties={},legacy=false] (/127.184.0.244:37531) lost connection: Disconnected
+[06Jul2024 16:37:09.536] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[06Jul2024 16:37:09.698] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shelg0d[/127.108.238.12:54567] logged in with entity id 582 at (-921.5032182122443, 71.0, 1457.3374224726206)
+[06Jul2024 16:37:09.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d joined the game
+[06Jul2024 16:37:10.050] [Server thread/INFO] [Jade/]: Syncing config to shelg0d (963f932a-0303-3ea2-b30a-c0524a5e50bb)
+[06Jul2024 16:37:14.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4534ms or 90 ticks behind
+[06Jul2024 16:37:14.195] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32c1a7c9[id=<null>,name=lakchapatos,properties={},legacy=false] (/127.184.0.244:53379) lost connection: Disconnected
+[06Jul2024 16:39:57.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:44205] logged in with entity id 1362 at (-800.9352991221477, 73.0, 1501.120511981278)
+[06Jul2024 16:39:57.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[06Jul2024 16:39:57.803] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
