@@ -21,6 +21,7 @@
     "criteria": {
       "minecraft:taiga": "2024-06-30 03:11:15 +0000",
       "minecraft:frozen_river": "2024-06-30 02:46:52 +0000",
+      "minecraft:sunflower_plains": "2024-07-06 03:26:47 +0000",
       "minecraft:birch_forest": "2024-06-30 04:22:45 +0000",
       "minecraft:beach": "2024-06-30 03:15:42 +0000",
       "minecraft:river": "2024-06-30 03:30:24 +0000",
@@ -133,6 +134,7 @@
       "minecraft:spider": "2024-06-30 04:20:56 +0000",
       "minecraft:creeper": "2024-07-02 03:25:16 +0000",
       "minecraft:wither_skeleton": "2024-07-02 01:32:44 +0000",
+      "minecraft:husk": "2024-07-06 03:28:21 +0000",
       "minecraft:zombie": "2024-06-30 02:50:35 +0000"
     },
     "done": false
@@ -309,6 +311,18 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-07-06 03:15:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-07-06 03:30:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-07-06 03:26:35 +0000"
     },
     "done": true
   },

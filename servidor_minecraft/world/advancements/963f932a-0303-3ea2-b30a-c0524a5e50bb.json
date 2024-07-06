@@ -22,6 +22,7 @@
       "minecraft:snowy_slopes": "2024-06-30 01:48:55 +0000",
       "minecraft:taiga": "2024-06-30 03:12:28 +0000",
       "minecraft:frozen_river": "2024-06-30 02:46:41 +0000",
+      "minecraft:sunflower_plains": "2024-07-06 03:26:43 +0000",
       "minecraft:birch_forest": "2024-06-30 04:19:17 +0000",
       "minecraft:beach": "2024-06-30 03:15:14 +0000",
       "minecraft:river": "2024-06-30 01:51:00 +0000",
@@ -116,6 +117,7 @@
       "minecraft:ravager": "2024-07-02 01:51:49 +0000",
       "minecraft:spider": "2024-06-30 01:49:39 +0000",
       "minecraft:creeper": "2024-06-30 02:11:13 +0000",
+      "minecraft:husk": "2024-07-06 03:28:33 +0000",
       "minecraft:enderman": "2024-07-06 02:31:11 +0000",
       "minecraft:zombie": "2024-06-30 02:03:44 +0000",
       "minecraft:drowned": "2024-07-02 02:29:20 +0000",
@@ -356,6 +358,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-07-02 03:19:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-07-06 03:26:30 +0000"
     },
     "done": true
   },
