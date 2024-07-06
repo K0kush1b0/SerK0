@@ -419,3 +419,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Jul2024 17:18:56.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Take Aim]
 [06Jul2024 17:35:23.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Alex's Caves]
 [06Jul2024 17:41:29.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Alex's Caves]
+[06Jul2024 17:50:24.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Magic Writing]
+[06Jul2024 17:55:56.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[06Jul2024 17:55:56.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
