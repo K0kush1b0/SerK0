@@ -406,3 +406,36 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Jul2024 00:19:39.980] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [07Jul2024 00:19:43.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3565ms or 71 ticks behind
 [07Jul2024 00:27:36.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Not Today, Thank You]
+[07Jul2024 00:44:44.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/782, l='ServerLevel[world]', x=-343.67, y=63.00, z=1414.70] died, message: 'Unemployed was slain by Zombie'
+[07Jul2024 00:44:51.698] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/737, l='ServerLevel[world]', x=-345.50, y=63.00, z=1414.70] died, message: 'Farmer was slain by Zombie'
+[07Jul2024 00:53:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos fell from a high place
+[07Jul2024 00:53:16.245] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[07Jul2024 00:53:16.277] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[07Jul2024 00:53:31.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos fell from a high place
+[07Jul2024 00:53:35.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4731ms or 94 ticks behind
+[07Jul2024 00:54:49.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos was kicked for floating too long!
+[07Jul2024 00:54:49.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Flying is not enabled on this server
+[07Jul2024 00:54:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[07Jul2024 00:55:12.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:35313] logged in with entity id 7569 at (-558.5837283045161, 58.46026947021561, 1380.3762773143958)
+[07Jul2024 00:55:12.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[07Jul2024 00:55:12.842] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[07Jul2024 00:55:14.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[07Jul2024 00:55:27.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos was kicked for floating too long!
+[07Jul2024 00:55:27.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Flying is not enabled on this server
+[07Jul2024 00:55:27.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[07Jul2024 00:55:50.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:40399] logged in with entity id 7981 at (-558.3361297767415, 44.43548222351019, 1380.2936648131554)
+[07Jul2024 00:55:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[07Jul2024 00:55:50.244] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[07Jul2024 00:56:35.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos fell from a high place
+[07Jul2024 00:56:35.663] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[07Jul2024 00:56:35.733] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[07Jul2024 00:56:41.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos fell from a high place
+[07Jul2024 01:03:20.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Timed out
+[07Jul2024 01:03:20.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[07Jul2024 01:06:02.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16761c0[id=<null>,name=lakchapatos,properties={},legacy=false] (/127.184.0.244:35505) lost connection: Disconnected
+[07Jul2024 01:06:30.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:58475] logged in with entity id 11408 at (-194.30000001192093, 29.0, 1304.699999988079)
+[07Jul2024 01:06:30.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[07Jul2024 01:06:30.421] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[07Jul2024 01:10:45.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Timed out
+[07Jul2024 01:10:45.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[07Jul2024 01:10:45.937] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
