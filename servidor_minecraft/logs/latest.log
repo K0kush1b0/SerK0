@@ -420,3 +420,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Jul2024 02:25:00.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/681, l='ServerLevel[world]', x=-317.30, y=64.94, z=1356.70] died, message: 'Unemployed was slain by Zombie'
 [07Jul2024 02:30:24.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> dc?
 [07Jul2024 02:31:13.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> ya
+[07Jul2024 02:41:02.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was doomed to fall by Zombie
+[07Jul2024 02:41:02.765] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[07Jul2024 02:41:02.801] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
