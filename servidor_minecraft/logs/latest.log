@@ -431,3 +431,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Jul2024 02:58:59.492] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [07Jul2024 03:00:14.661] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
 [07Jul2024 03:00:23.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> Vamos a la casa
+[07Jul2024 03:01:14.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Timed out
+[07Jul2024 03:01:14.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[07Jul2024 03:01:14.701] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jul2024 03:01:31.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Timed out
+[07Jul2024 03:01:31.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[07Jul2024 03:02:45.370] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c3dd0a7[id=<null>,name=lakchapatos,properties={},legacy=false] (/127.184.0.244:33317) lost connection: Disconnected
+[07Jul2024 03:03:03.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:39533] logged in with entity id 10828 at (-231.40889083267828, 23.419999986886978, 1207.699999988079)
+[07Jul2024 03:03:03.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[07Jul2024 03:03:03.208] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[07Jul2024 03:07:45.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Underminer
+[07Jul2024 03:07:45.028] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[07Jul2024 03:07:45.059] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[07Jul2024 03:08:26.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Underminer
+[07Jul2024 03:08:30.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4036ms or 80 ticks behind
+[07Jul2024 03:09:21.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shelg0d[/127.108.238.12:51935] logged in with entity id 12848 at (-160.24567901035607, 7.0, 1236.9228979575325)
+[07Jul2024 03:09:21.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d joined the game
+[07Jul2024 03:09:21.561] [Server thread/INFO] [Jade/]: Syncing config to shelg0d (963f932a-0303-3ea2-b30a-c0524a5e50bb)
+[07Jul2024 03:27:13.564] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[07Jul2024 03:27:13.566] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[07Jul2024 03:35:55.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has reached the goal [Dinner's Served!]
+[07Jul2024 03:43:18.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Disconnected
+[07Jul2024 03:43:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[07Jul2024 03:45:55.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[07Jul2024 03:45:55.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[07Jul2024 03:46:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jul2024 03:46:09.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jul2024 03:46:09.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jul2024 03:46:09.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jul2024 03:46:09.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jul2024 03:46:13.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jul2024 03:46:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jul2024 03:46:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jul2024 03:46:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jul2024 03:46:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jul2024 03:46:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jul2024 03:46:13.798] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
