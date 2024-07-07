@@ -439,3 +439,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Jul2024 01:10:45.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Timed out
 [07Jul2024 01:10:45.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
 [07Jul2024 01:10:45.937] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jul2024 01:21:33.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:35511] logged in with entity id 12207 at (-224.69999998807907, 34.0, 1327.300000011921)
+[07Jul2024 01:21:33.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[07Jul2024 01:21:33.368] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[07Jul2024 01:27:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos drowned
+[07Jul2024 01:27:08.703] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[07Jul2024 01:27:08.711] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[07Jul2024 01:27:14.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos drowned
+[07Jul2024 01:27:15.636] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[07Jul2024 01:29:19.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[07Jul2024 01:29:19.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
