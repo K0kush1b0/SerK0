@@ -413,3 +413,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Jul2024 02:11:40.378] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [07Jul2024 02:11:52.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6703ms or 134 ticks behind
 [07Jul2024 02:12:36.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[07Jul2024 02:22:15.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> no puedes dc no?
+[07Jul2024 02:24:45.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/678, l='ServerLevel[world]', x=-319.80, y=64.94, z=1356.53] died, message: 'Unemployed was slain by Zombie'
+[07Jul2024 02:24:49.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/680, l='ServerLevel[world]', x=-320.70, y=64.94, z=1356.70] died, message: 'Unemployed was slain by Zombie'
+[07Jul2024 02:24:56.279] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/679, l='ServerLevel[world]', x=-317.30, y=64.94, z=1356.70] died, message: 'Unemployed was slain by Zombie'
+[07Jul2024 02:25:00.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/681, l='ServerLevel[world]', x=-317.30, y=64.94, z=1356.70] died, message: 'Unemployed was slain by Zombie'
