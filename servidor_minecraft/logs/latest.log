@@ -408,3 +408,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 18:50:15.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4107ms or 82 ticks behind
 [08Jul2024 18:51:00.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
 [08Jul2024 18:52:59.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has completed the challenge [Free Willy]
+[08Jul2024 19:05:53.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/2314, l='ServerLevel[world]', x=-339.58, y=62.94, z=1387.48] died, message: 'Cartographer was slain by lakchapatos'
