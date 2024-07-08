@@ -378,6 +378,14 @@
     },
     "done": true
   },
+  "simplefarming:crops": {
+    "criteria": {
+      "cucumber": "2024-07-08 16:25:12 +0000",
+      "broccoli": "2024-07-08 16:24:59 +0000",
+      "sweet_potato": "2024-07-08 16:25:38 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-07-08 16:14:01 +0000"
