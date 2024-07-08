@@ -4907,3 +4907,43 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 17:22:25.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 0.4599378518648791
 [08Jul2024 17:22:25.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 0.9593156360717785
 [08Jul2024 17:22:25.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 1.4770445081846901
+[08Jul2024 17:24:41.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.2729600277858708
+[08Jul2024 17:24:41.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.6916120663685206
+[08Jul2024 17:24:41.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.0
+[08Jul2024 17:24:42.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.2953378243479392
+[08Jul2024 17:24:42.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.7485320339120562
+[08Jul2024 17:24:42.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.9910272197321319
+[08Jul2024 17:24:42.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.12078155883205
+[08Jul2024 17:25:14.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 17:25:14.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 17:25:35.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 0.3360779765139341
+[08Jul2024 17:25:35.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 0.7807278971740743
+[08Jul2024 17:25:35.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 1.0
+[08Jul2024 17:25:35.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 1.0
+[08Jul2024 17:25:35.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 1.0
+[08Jul2024 17:25:36.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 0.43962355506778295
+[08Jul2024 17:25:36.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 0.7015758698314585
+[08Jul2024 17:27:20.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 0.2674296836319172
+[08Jul2024 17:27:20.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 0.6783932167822968
+[08Jul2024 17:29:20.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of lakchapatos) moved wrongly! 0.46168074616048216
+[08Jul2024 17:30:14.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 17:30:15.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 17:31:38.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.2856880137121607
+[08Jul2024 17:31:38.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.7300360966191874
+[08Jul2024 17:31:38.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.2520833529479205
+[08Jul2024 17:31:38.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.8113948848279051
+[08Jul2024 17:31:38.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.390191615247204
+[08Jul2024 17:31:38.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.312446826147152
+[08Jul2024 17:31:38.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.9296940253570938
+[08Jul2024 17:31:38.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.536323043036873
+[08Jul2024 17:31:38.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.8609181355195688
+[08Jul2024 17:31:38.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 2.034602497779133
+[08Jul2024 17:31:42.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.2585029198924076
+[08Jul2024 17:31:42.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.6538472623249163
+[08Jul2024 17:31:42.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.0
+[08Jul2024 17:31:42.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.0
+[08Jul2024 17:31:42.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.2950828287380318
+[08Jul2024 17:31:42.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.748724135417433
+[08Jul2024 17:31:44.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.2765461489416339
+[08Jul2024 17:31:44.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.8993990015396776
+[08Jul2024 17:31:44.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.5286477058598393
