@@ -422,3 +422,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 19:58:00.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:54633] logged in with entity id 16233 at (-209.36303224772507, 71.0, 503.7949977178417)
 [08Jul2024 19:58:00.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
 [08Jul2024 19:58:00.377] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[08Jul2024 20:15:42.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos drowned
+[08Jul2024 20:15:42.284] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[08Jul2024 20:15:42.293] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[08Jul2024 20:15:50.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos drowned
+[08Jul2024 20:15:53.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
+[08Jul2024 20:38:15.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[08Jul2024 20:38:15.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game

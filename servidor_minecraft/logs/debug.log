@@ -4823,3 +4823,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 19:58:00.281] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1e234ab6 into net.minecraft.network.Connection@26ee560f
 [08Jul2024 19:58:00.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
 [08Jul2024 19:58:00.377] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[08Jul2024 19:59:31.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 19:59:31.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 20:04:31.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 20:04:31.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 20:09:31.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 20:09:31.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 20:14:31.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 20:14:31.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 20:15:42.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos drowned
+[08Jul2024 20:15:42.284] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[08Jul2024 20:15:42.293] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[08Jul2024 20:15:50.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos drowned
+[08Jul2024 20:15:53.062] [Server thread/DEBUG] [tombstone/]: A new grave of the player lakchapatos was created at position [x:-485, y:62, z:317, dim:minecraft:overworld]
+[08Jul2024 20:15:53.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
+[08Jul2024 20:19:34.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 20:19:34.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 20:24:34.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 20:24:34.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 20:29:34.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 20:29:34.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 20:34:34.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 20:34:34.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 20:38:15.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[08Jul2024 20:38:15.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
