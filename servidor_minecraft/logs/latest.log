@@ -429,3 +429,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 20:15:53.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
 [08Jul2024 20:38:15.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
 [08Jul2024 20:38:15.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[08Jul2024 20:40:39.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:55845] logged in with entity id 30126 at (-629.534833995707, 63.0, 344.8265745267071)
+[08Jul2024 20:40:39.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[08Jul2024 20:40:40.010] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[08Jul2024 20:57:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [It Belongs in a Museum]
