@@ -35,6 +35,7 @@
       "minecraft:cold_ocean": "2024-06-30 03:14:48 +0000",
       "minecraft:forest": "2024-06-30 02:33:34 +0000",
       "minecraft:lush_caves": "2024-07-06 16:59:43 +0000",
+      "minecraft:snowy_beach": "2024-07-08 19:38:28 +0000",
       "minecraft:flower_forest": "2024-07-08 17:21:02 +0000",
       "minecraft:old_growth_birch_forest": "2024-07-02 02:25:46 +0000",
       "minecraft:meadow": "2024-06-30 04:21:57 +0000",
@@ -411,6 +412,18 @@
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2024-07-08 18:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2024-07-08 19:20:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-07-08 19:20:24 +0000"
     },
     "done": true
   },

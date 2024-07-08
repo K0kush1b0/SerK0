@@ -409,3 +409,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 18:51:00.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
 [08Jul2024 18:52:59.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has completed the challenge [Free Willy]
 [08Jul2024 19:05:53.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/2314, l='ServerLevel[world]', x=-339.58, y=62.94, z=1387.48] died, message: 'Cartographer was slain by lakchapatos'
+[08Jul2024 19:20:24.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [The Parrots and the Bats]
+[08Jul2024 19:26:34.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-103, y=93, z=704} BlockPos{x=-103, y=90, z=705}
+[08Jul2024 19:26:35.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=92, z=704} BlockPos{x=-104, y=90, z=704}
+[08Jul2024 19:26:35.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=92, z=704} BlockPos{x=-104, y=90, z=704}
+[08Jul2024 19:26:35.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=92, z=704} BlockPos{x=-104, y=90, z=704}
+[08Jul2024 19:26:38.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=91, z=702} BlockPos{x=-106, y=89, z=702}
+[08Jul2024 19:32:57.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=82, z=747} BlockPos{x=-115, y=83, z=747}
