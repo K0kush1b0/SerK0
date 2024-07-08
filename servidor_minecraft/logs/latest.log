@@ -527,3 +527,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 17:31:44.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.2765461489416339
 [08Jul2024 17:31:44.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.8993990015396776
 [08Jul2024 17:31:44.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.5286477058598393
+[08Jul2024 17:36:19.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.3728733895281948
+[08Jul2024 17:36:19.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.7713092979279281
+[08Jul2024 17:43:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Ol' Betsy]
