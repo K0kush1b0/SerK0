@@ -445,3 +445,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 21:55:30.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/47097, l='ServerLevel[world]', x=-678.46, y=62.00, z=1518.52] died, message: 'Unemployed was slain by Zombie'
 [08Jul2024 21:56:02.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48124, l='ServerLevel[world]', x=-724.92, y=80.00, z=1648.72] died, message: 'Unemployed was slain by Zombie'
 [08Jul2024 21:56:17.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48211, l='ServerLevel[world]', x=-694.00, y=86.00, z=1649.67] died, message: 'Unemployed was slain by Zombie'
+[08Jul2024 22:30:15.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos drowned
+[08Jul2024 22:30:15.581] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[08Jul2024 22:30:15.587] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[08Jul2024 22:30:20.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos drowned
+[08Jul2024 22:30:21.438] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[08Jul2024 22:30:44.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Timed out
+[08Jul2024 22:30:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game

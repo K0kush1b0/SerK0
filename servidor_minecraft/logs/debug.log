@@ -5219,3 +5219,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 22:04:34.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jul2024 22:09:34.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2024 22:09:34.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 22:14:34.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 22:14:34.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 22:19:34.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 22:19:34.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 22:24:34.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 22:24:34.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 22:29:34.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2024 22:29:34.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2024 22:30:15.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos drowned
+[08Jul2024 22:30:15.581] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[08Jul2024 22:30:15.587] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[08Jul2024 22:30:20.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos drowned
+[08Jul2024 22:30:21.423] [Server thread/DEBUG] [tombstone/]: A new grave of the player lakchapatos was created at position [x:-1503, y:61, z:1668, dim:minecraft:overworld]
+[08Jul2024 22:30:21.438] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[08Jul2024 22:30:44.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Timed out
+[08Jul2024 22:30:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
