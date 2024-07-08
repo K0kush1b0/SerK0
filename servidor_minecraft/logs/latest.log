@@ -437,3 +437,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 21:23:36.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Ice Bucket Challenge]
 [08Jul2024 21:50:24.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
 [08Jul2024 21:50:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[08Jul2024 21:52:25.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:35091] logged in with entity id 46887 at (-745.6891920329184, 65.0, 1471.699999988079)
+[08Jul2024 21:52:25.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[08Jul2024 21:52:25.579] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[08Jul2024 21:54:32.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46974, l='ServerLevel[world]', x=-766.39, y=71.00, z=1491.89] died, message: 'Unemployed was slain by Zombie'
+[08Jul2024 21:55:12.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/47140, l='ServerLevel[world]', x=-685.30, y=62.90, z=1516.58] died, message: 'Mason was slain by Zombie'
+[08Jul2024 21:55:30.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/47097, l='ServerLevel[world]', x=-678.46, y=62.00, z=1518.52] died, message: 'Unemployed was slain by Zombie'
+[08Jul2024 21:56:02.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48124, l='ServerLevel[world]', x=-724.92, y=80.00, z=1648.72] died, message: 'Unemployed was slain by Zombie'
+[08Jul2024 21:56:17.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48211, l='ServerLevel[world]', x=-694.00, y=86.00, z=1649.67] died, message: 'Unemployed was slain by Zombie'
