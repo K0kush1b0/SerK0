@@ -413,3 +413,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 16:05:34.589] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [08Jul2024 16:05:37.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3404ms or 68 ticks behind
 [08Jul2024 16:14:01.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Magic Writing]
+[08Jul2024 17:04:39.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shelg0d[/127.108.238.12:39491] logged in with entity id 11066 at (-918.6039389607156, 71.0, 1455.804923006811)
+[08Jul2024 17:04:39.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d joined the game
+[08Jul2024 17:04:39.549] [Server thread/INFO] [Jade/]: Syncing config to shelg0d (963f932a-0303-3ea2-b30a-c0524a5e50bb)
+[08Jul2024 17:07:54.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> duermee
+[08Jul2024 17:09:19.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Voluntary Exile]

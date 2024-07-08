@@ -116,6 +116,7 @@
       "baked_potato": "2024-07-07 03:19:25 +0000",
       "bread": "2024-06-30 03:00:49 +0000",
       "rotten_flesh": "2024-06-30 02:44:25 +0000",
+      "beetroot": "2024-07-08 17:03:38 +0000",
       "cooked_chicken": "2024-06-30 02:53:39 +0000",
       "mushroom_stew": "2024-07-06 16:44:14 +0000",
       "rabbit_stew": "2024-07-06 03:55:46 +0000",
@@ -376,6 +377,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2024-07-07 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-07-08 17:09:19 +0000"
     },
     "done": true
   },
