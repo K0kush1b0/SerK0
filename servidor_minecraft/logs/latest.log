@@ -412,3 +412,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 16:05:34.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
 [08Jul2024 16:05:34.589] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [08Jul2024 16:05:37.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3404ms or 68 ticks behind
+[08Jul2024 16:14:01.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Magic Writing]
