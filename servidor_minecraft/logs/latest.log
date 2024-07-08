@@ -433,3 +433,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2024 20:40:39.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
 [08Jul2024 20:40:40.010] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [08Jul2024 20:57:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [It Belongs in a Museum]
+[08Jul2024 21:14:18.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Your First Receptacle]
