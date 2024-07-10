@@ -475,3 +475,68 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Jul2024 17:26:28.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> estoy esperando a que se guarde
 [10Jul2024 17:26:34.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> ahhhh
 [10Jul2024 17:26:40.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> uff
+[10Jul2024 17:28:36.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Fishy Business]
+[10Jul2024 17:28:43.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> ?=
+[10Jul2024 17:28:44.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> xd
+[10Jul2024 17:28:58.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> que paso
+[10Jul2024 17:32:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> no hay nada de loot
+[10Jul2024 17:32:41.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> en serio?
+[10Jul2024 17:32:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> pense q habia arto
+[10Jul2024 17:33:01.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> aaa q decepcion
+[10Jul2024 17:33:07.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> ptmr no se donde habia un chillador
+[10Jul2024 17:33:10.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> tenia demasiadas expectativas
+[10Jul2024 17:33:19.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> escondeteee
+[10Jul2024 17:33:25.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> de donde sacaste que habia loot?
+[10Jul2024 17:33:28.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> mejor ven
+[10Jul2024 17:33:32.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> te paso las cordenadas
+[10Jul2024 17:33:34.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> como
+[10Jul2024 17:33:45.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> si vi q hasta diamante habia en los cofres
+[10Jul2024 17:33:56.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> en varios videos
+[10Jul2024 17:34:39.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> 174 x
+[10Jul2024 17:34:49.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> -44 y
+[10Jul2024 17:35:00.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> 627 z
+[10Jul2024 17:35:56.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> no e visto ningun cofre hasta ahora
+[10Jul2024 17:37:59.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[10Jul2024 17:37:59.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[10Jul2024 17:40:16.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:55789] logged in with entity id 28049 at (-924.6387840809803, 71.0, 1525.5522888972394)
+[10Jul2024 17:40:16.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[10Jul2024 17:40:16.444] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[10Jul2024 17:40:23.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[10Jul2024 17:41:55.354] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28367, l='ServerLevel[world]', x=-804.13, y=98.00, z=1711.70] died, message: 'Unemployed was slain by Zombie'
+[10Jul2024 17:42:31.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
+[10Jul2024 17:42:41.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28452, l='ServerLevel[world]', x=-754.70, y=76.00, z=1733.49] died, message: 'Unemployed was slain by Zombie'
+[10Jul2024 17:43:42.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> me podrias repetir tus coordenadas
+[10Jul2024 17:43:48.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> se me desconecto
+[10Jul2024 17:44:14.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> 69 538
+[10Jul2024 17:44:19.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> la otra pues es la altura
+[10Jul2024 17:44:26.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> por ahi entre
+[10Jul2024 17:44:30.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> hice un hueco hacia abajo
+[10Jul2024 17:44:38.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> asi que cuidado cuando estes cerca xd
+[10Jul2024 17:44:43.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> cierto
+[10Jul2024 17:44:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> okey
+[10Jul2024 17:44:47.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> encontre cofres
+[10Jul2024 17:44:56.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> y q tal
+[10Jul2024 17:45:57.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30867, l='ServerLevel[world]', x=-652.68, y=63.93, z=1542.30] died, message: 'Unemployed was slain by Zombie'
+[10Jul2024 17:47:10.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Enderman
+[10Jul2024 17:47:10.925] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[10Jul2024 17:47:10.940] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[10Jul2024 17:47:17.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Enderman
+[10Jul2024 17:47:17.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> que hiciste ahora
+[10Jul2024 17:47:28.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> xdd
+[10Jul2024 17:47:34.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> estoy cerca de mi tumba
+[10Jul2024 17:47:45.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> el enderman sabe q soy racista
+[10Jul2024 17:54:31.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has completed the challenge [It Spreads]
+[10Jul2024 18:00:24.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> hay una entrada?
+[10Jul2024 18:00:37.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> estas en las cordenadas exactas
+[10Jul2024 18:00:39.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> ?
+[10Jul2024 18:00:41.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> hice un hueco xd
+[10Jul2024 18:00:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> tienes que caer con agua
+[10Jul2024 18:03:13.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> ya estoy
+[10Jul2024 18:03:44.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> en la ancient o donde
+[10Jul2024 18:03:52.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> tus coordenadas
+[10Jul2024 18:03:59.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> osea baje con el cubo de agua xd
+[10Jul2024 18:04:03.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> no vez el hueco?
+[10Jul2024 18:04:16.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> estoy bajando
+[10Jul2024 18:05:04.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> llegue
+[10Jul2024 18:06:51.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> no hagas ruido
+[10Jul2024 18:06:58.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> aaaaaa

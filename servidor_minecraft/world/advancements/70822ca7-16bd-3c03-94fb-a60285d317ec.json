@@ -41,6 +41,7 @@
       "minecraft:frozen_ocean": "2024-07-08 19:51:52 +0000",
       "minecraft:snowy_beach": "2024-07-08 19:38:28 +0000",
       "minecraft:flower_forest": "2024-07-08 17:21:02 +0000",
+      "minecraft:frozen_peaks": "2024-07-10 17:59:37 +0000",
       "minecraft:old_growth_birch_forest": "2024-07-02 02:25:46 +0000",
       "minecraft:deep_dark": "2024-07-10 15:26:49 +0000",
       "minecraft:meadow": "2024-06-30 04:21:57 +0000",
@@ -408,6 +409,7 @@
     "criteria": {
       "pepper": "2024-07-08 21:01:05 +0000",
       "soybean": "2024-07-08 21:33:28 +0000",
+      "sorghum": "2024-07-10 17:29:33 +0000",
       "cucumber": "2024-07-08 16:25:12 +0000",
       "onion": "2024-07-08 21:03:01 +0000",
       "broccoli": "2024-07-08 16:24:59 +0000",
@@ -501,6 +503,18 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-07-10 15:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-07-10 17:28:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2024-07-10 17:56:21 +0000"
     },
     "done": true
   },
