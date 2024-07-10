@@ -407,3 +407,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Jul2024 14:10:02.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
 [10Jul2024 14:10:02.913] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [10Jul2024 14:10:06.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3659ms or 73 ticks behind
+[10Jul2024 14:16:18.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has reached the goal [This Belongs in a Museum]
+[10Jul2024 14:18:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Not even afraid of death]
+[10Jul2024 14:18:28.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Back to childhood]
+[10Jul2024 14:18:31.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Where Is The Stone Pen?]
