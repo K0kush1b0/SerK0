@@ -581,3 +581,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Jul2024 18:22:24.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> AAAAAA
 [10Jul2024 18:23:11.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
 [10Jul2024 18:23:11.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[10Jul2024 19:04:33.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Jul2024 19:04:33.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jul2024 19:04:33.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jul2024 19:04:33.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jul2024 19:04:34.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jul2024 19:04:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jul2024 19:04:37.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jul2024 19:04:37.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jul2024 19:04:37.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jul2024 19:04:37.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jul2024 19:04:37.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Jul2024 19:04:38.466] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
