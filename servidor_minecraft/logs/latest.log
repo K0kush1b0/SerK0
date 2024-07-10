@@ -411,3 +411,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Jul2024 02:54:54.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Flying is not enabled on this server
 [10Jul2024 02:54:54.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
 [10Jul2024 02:54:54.477] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jul2024 02:55:20.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:40195] logged in with entity id 1561 at (-1226.699035963823, 88.45088151060379, 1550.6400206484134)
+[10Jul2024 02:55:20.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[10Jul2024 02:55:20.331] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[10Jul2024 02:55:23.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3288ms or 65 ticks behind
+[10Jul2024 03:08:35.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shelg0d[/127.51.63.183:51537] logged in with entity id 5602 at (-1030.300000011921, 68.0, 1373.6976980876038)
+[10Jul2024 03:08:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d joined the game
+[10Jul2024 03:08:35.913] [Server thread/INFO] [Jade/]: Syncing config to shelg0d (963f932a-0303-3ea2-b30a-c0524a5e50bb)
