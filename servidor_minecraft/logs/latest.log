@@ -506,3 +506,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Jul2024 15:05:14.211] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/15854, l='ServerLevel[world]', x=-116.50, y=14.00, z=1208.50]
 [10Jul2024 15:05:14.212] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/15855, l='ServerLevel[world]', x=-118.50, y=15.00, z=1208.50]
 [10Jul2024 15:05:51.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> encima es ofensivo
+[10Jul2024 15:06:18.739] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16102, l='ServerLevel[world]', x=-110.50, y=10.00, z=1200.50]
+[10Jul2024 15:08:16.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> q mrd un cienpiees
+[10Jul2024 15:08:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> aaaaaaaa
+[10Jul2024 15:10:20.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> un cienpies
+[10Jul2024 15:10:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> xddd
+[10Jul2024 15:10:27.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> tambien me mato 2 veces
+[10Jul2024 15:10:33.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> encima es ofensivoo
+[10Jul2024 15:12:36.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was impaled on a stalagmite whilst fighting Skeleton
+[10Jul2024 15:12:36.468] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[10Jul2024 15:12:36.547] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[10Jul2024 15:12:42.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> a
+[10Jul2024 15:12:44.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> quee='
+[10Jul2024 15:12:45.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> ?
+[10Jul2024 15:12:47.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> xddd
+[10Jul2024 15:12:50.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was impaled on a stalagmite
+[10Jul2024 15:13:00.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> ahora p cuando busco esqueletos ni mrcls
+[10Jul2024 15:13:16.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> a pero cuando no, aparecen como plaga
+[10Jul2024 15:14:36.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos was kicked for floating too long!
+[10Jul2024 15:14:36.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Flying is not enabled on this server
+[10Jul2024 15:14:36.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[10Jul2024 15:14:56.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:35119] logged in with entity id 19118 at (-132.1484429052465, 61.576996106119076, 1260.268333165136)
+[10Jul2024 15:14:56.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[10Jul2024 15:14:56.861] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[10Jul2024 15:15:14.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> no estoy volando
