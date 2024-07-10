@@ -530,3 +530,63 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Jul2024 15:14:56.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
 [10Jul2024 15:14:56.861] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [10Jul2024 15:15:14.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> no estoy volando
+[10Jul2024 15:18:26.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [What a Deal!]
+[10Jul2024 15:19:30.881] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:19:31.497] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:19:31.625] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:19:31.630] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:29.515] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.21 seconds (should be max 0.05)
+[10Jul2024 15:20:29.516] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[10Jul2024 15:20:54.462] [Worker-Main-31/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:keep_kayra/keep_kayra_main_0
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOf(Arrays.java:3482) ~[?:?]
+	at java.util.ArrayList.grow(ArrayList.java:237) ~[?:?]
+	at java.util.ArrayList.grow(ArrayList.java:244) ~[?:?]
+	at java.util.ArrayList.add(ArrayList.java:515) ~[?:?]
+	at net.minecraft.nbt.ListTag.m_7614_(ListTag.java:305) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.nbt.ListTag.add(ListTag.java:288) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.nbt.ListTag.add(ListTag.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.AbstractList.add(AbstractList.java:113) ~[?:?]
+	at net.minecraft.nbt.NbtOps$HeterogenousListCollector.m_246081_(NbtOps.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.nbt.NbtOps$ListCollector.m_246277_(NbtOps.java:394) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.nbt.NbtOps.m_244787_(NbtOps.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.nbt.NbtOps$$Lambda/0x00007879c17fc688.apply(Unknown Source) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.nbt.NbtOps.mergeToList(NbtOps.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.nbt.NbtOps.mergeToList(NbtOps.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at com.mojang.serialization.ListBuilder$Builder.lambda$build$3(ListBuilder.java:74) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.ListBuilder$Builder$$Lambda/0x00007879c17faac0.apply(Unknown Source) ~[?:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult$$Lambda/0x00007879c076bda0.apply(Unknown Source) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.ListBuilder$Builder.build(ListBuilder.java:74) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:19) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.EitherCodec.lambda$encode$2(EitherCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.EitherCodec$$Lambda/0x00007879c17fa418.apply(Unknown Source) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:33) ~[datafixerupper-6.0.8.jar%2377!/:?]
+[10Jul2024 15:20:55.795] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 1c5dccbc-3531-42b4-a9fd-040ab0dad33e
+[10Jul2024 15:20:55.897] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ad8d5175-8f93-424a-bd45-b05000ac5500
+[10Jul2024 15:20:55.898] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/SerK0/servidor_minecraft/./crash-reports/crash-2024-07-10_15.20.55-server.txt
+[10Jul2024 15:20:57.453] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:57.455] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:57.470] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:57.472] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:57.540] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:57.541] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:58.381] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:58.383] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:58.469] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:58.469] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jul2024 15:20:59.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jul2024 15:20:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jul2024 15:21:00.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Disconnected
+[10Jul2024 15:21:00.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[10Jul2024 15:21:00.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jul2024 15:21:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
