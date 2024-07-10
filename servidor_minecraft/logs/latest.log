@@ -422,3 +422,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Jul2024 16:34:10.717] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
 [10Jul2024 16:34:16.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> ptmreeee
 [10Jul2024 16:34:22.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos hit the ground too hard
+[10Jul2024 16:39:12.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos tried to swim in lava
+[10Jul2024 16:39:12.447] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[10Jul2024 16:39:12.454] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[10Jul2024 16:39:14.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos tried to swim in lava
+[10Jul2024 16:39:14.468] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[10Jul2024 16:42:53.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Sculk Cymbal]
+[10Jul2024 16:43:07.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was impaled on a stalagmite whilst fighting Rocky Roller
+[10Jul2024 16:43:07.864] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[10Jul2024 16:43:07.885] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[10Jul2024 16:43:22.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> aaa hay demasiadas cosas
+[10Jul2024 16:43:29.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was impaled on a stalagmite
+[10Jul2024 16:46:59.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/6057, l='ServerLevel[world]', x=-319.45, y=64.94, z=1356.30] died, message: 'Toolsmith was slain by Zombie'
+[10Jul2024 16:50:23.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[10Jul2024 16:50:23.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[10Jul2024 16:52:46.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:57501] logged in with entity id 9390 at (-485.3869598953449, 66.0, 1357.339433446522)
+[10Jul2024 16:52:46.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[10Jul2024 16:52:46.138] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[10Jul2024 16:52:49.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
