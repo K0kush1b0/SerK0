@@ -417,3 +417,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Jul2024 14:33:02.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos burned to death
 [10Jul2024 14:33:07.495] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
 [10Jul2024 14:33:07.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
+[10Jul2024 14:42:42.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shelg0d[/127.51.63.183:54787] logged in with entity id 7132 at (-207.53504806897902, 95.0, 1195.5347547971207)
+[10Jul2024 14:42:42.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d joined the game
+[10Jul2024 14:42:42.482] [Server thread/INFO] [Jade/]: Syncing config to shelg0d (963f932a-0303-3ea2-b30a-c0524a5e50bb)
+[10Jul2024 14:45:13.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> dungeon
+[10Jul2024 14:45:25.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> un leopardoo
+[10Jul2024 14:45:26.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> necesito recuperar mis cosas xdd
+[10Jul2024 14:45:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> moriste?
+[10Jul2024 14:45:38.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> leopardo de las nieves?
+[10Jul2024 14:45:40.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> si
+[10Jul2024 14:45:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> cai a la lava
+[10Jul2024 14:45:48.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> si de las nivec
