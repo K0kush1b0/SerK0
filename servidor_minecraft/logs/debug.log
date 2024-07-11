@@ -6056,3 +6056,43 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Jul2024 21:44:10.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> cuidado salieron 2 non se de domne
 [11Jul2024 21:44:20.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jul2024 21:44:20.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 21:49:20.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2024 21:49:20.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 21:49:28.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> no
+[11Jul2024 21:49:58.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> corre
+[11Jul2024 21:51:10.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> trmr no tengo plos para asada
+[11Jul2024 21:52:08.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> corre
+[11Jul2024 21:52:37.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> cete
+[11Jul2024 21:53:13.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> tu ranqui por mio
+[11Jul2024 21:53:19.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> yo me ltrate de llevar la atencion de 2
+[11Jul2024 21:54:20.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2024 21:54:20.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 21:54:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> que haces con eso en la cabeza xd
+[11Jul2024 21:56:10.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-52, z=557} BlockPos{x=64, y=-52, z=555}
+[11Jul2024 21:56:27.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=-53, z=574} BlockPos{x=68, y=-52, z=573}
+[11Jul2024 21:57:46.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=149, y=-50, z=542} BlockPos{x=149, y=-51, z=542}
+[11Jul2024 21:57:48.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> asada
+[11Jul2024 21:57:59.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=-51, z=572} BlockPos{x=106, y=-52, z=572}
+[11Jul2024 21:58:00.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=109, y=-52, z=570} BlockPos{x=108, y=-52, z=571}
+[11Jul2024 21:58:10.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> quie hisite
+[11Jul2024 21:58:39.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> damee
+[11Jul2024 21:58:41.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> la asad
+[11Jul2024 21:59:20.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2024 21:59:20.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 21:59:36.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=-51, z=509} BlockPos{x=80, y=-52, z=510}
+[11Jul2024 21:59:37.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=-52, z=513} BlockPos{x=83, y=-53, z=511}
+[11Jul2024 21:59:38.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=-51, z=511} BlockPos{x=80, y=-52, z=511}
+[11Jul2024 21:59:38.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=-51, z=511} BlockPos{x=80, y=-52, z=511}
+[11Jul2024 21:59:38.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=-51, z=511} BlockPos{x=80, y=-52, z=511}
+[11Jul2024 21:59:38.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=-51, z=511} BlockPos{x=80, y=-52, z=511}
+[11Jul2024 21:59:51.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=-52, z=521} BlockPos{x=85, y=-53, z=521}
+[11Jul2024 21:59:51.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=84, y=-52, z=522} BlockPos{x=86, y=-53, z=521}
+[11Jul2024 21:59:51.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=-52, z=521} BlockPos{x=86, y=-53, z=521}
+[11Jul2024 22:00:39.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=-51, z=526} BlockPos{x=84, y=-52, z=526}
+[11Jul2024 22:00:39.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=-52, z=526} BlockPos{x=85, y=-52, z=525}
+[11Jul2024 22:00:54.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> 46
+[11Jul2024 22:01:09.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> quiero encantar algo xd
+[11Jul2024 22:02:42.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> pero yo casi no estoy picando skul esa cosa, solo los chilladores
+[11Jul2024 22:04:20.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2024 22:04:20.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 22:04:23.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=-53, z=544} BlockPos{x=103, y=-52, z=547}
