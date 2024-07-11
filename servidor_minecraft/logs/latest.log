@@ -619,3 +619,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Jul2024 22:40:11.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=-52, z=548} BlockPos{x=136, y=-52, z=551}
 [11Jul2024 22:40:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> que dicen
 [11Jul2024 22:40:32.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> sui
+[11Jul2024 22:46:09.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> creo que si es troda la ancient
+[11Jul2024 22:46:40.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> xd
+[11Jul2024 22:47:31.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> xddd
+[11Jul2024 22:47:34.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> no creo limpie todo
+[11Jul2024 22:50:58.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> ya estoy en la salida
+[11Jul2024 22:51:31.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[11Jul2024 22:51:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[11Jul2024 22:53:31.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:40139] logged in with entity id 43303 at (282.4189710617319, -49.0, 500.0083951573916)
+[11Jul2024 22:53:31.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[11Jul2024 22:53:31.772] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[11Jul2024 22:54:21.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> si ven
+[11Jul2024 22:54:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> por eso ven
