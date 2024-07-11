@@ -518,5 +518,11 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-07-11 19:48:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

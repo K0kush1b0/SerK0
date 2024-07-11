@@ -423,3 +423,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Jul2024 19:34:26.026] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [11Jul2024 19:36:49.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Disconnected
 [11Jul2024 19:36:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[11Jul2024 19:48:28.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Cover Me with Diamonds]

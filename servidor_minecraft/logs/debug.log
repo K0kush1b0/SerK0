@@ -5129,3 +5129,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Jul2024 19:36:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
 [11Jul2024 19:39:15.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jul2024 19:39:15.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 19:44:15.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2024 19:44:15.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 19:48:28.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Cover Me with Diamonds]
+[11Jul2024 19:49:15.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2024 19:49:15.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
