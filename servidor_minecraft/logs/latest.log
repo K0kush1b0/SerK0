@@ -496,3 +496,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Jul2024 21:01:45.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> habia chilladores arriba
 [11Jul2024 21:01:48.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> cuidado
 [11Jul2024 21:02:51.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> no tengo madera xd
+[11Jul2024 21:05:34.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[11Jul2024 21:05:34.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[11Jul2024 21:08:35.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:44435] logged in with entity id 17857 at (228.8979889854016, -45.0, 591.9849600784121)
+[11Jul2024 21:08:35.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[11Jul2024 21:08:35.830] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[11Jul2024 21:09:18.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> deja de sacarlooos aaa
+[11Jul2024 21:09:31.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> tengo que rompero los chilladores
+[11Jul2024 21:11:46.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> mira como un laboratorio
+[11Jul2024 21:12:35.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> me llevo los repetidores xd
+[11Jul2024 21:14:07.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> inevitablemente sacare uno
