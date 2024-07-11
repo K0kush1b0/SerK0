@@ -736,3 +736,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Jul2024 23:25:46.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved too quickly! -11.436507612780133,-2.0,8.13225405474418
 [11Jul2024 23:25:46.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved too quickly! -11.96912403152919,-2.0,8.480823450808884
 [11Jul2024 23:25:46.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved too quickly! -12.503827692364325,-2.0,8.826236391672865
+[11Jul2024 23:26:23.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Ice Bucket Challenge]
+[11Jul2024 23:29:35.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Hot Stuff]
+[11Jul2024 23:29:48.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.4250170799591615
+[11Jul2024 23:29:48.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.9236253877355693
+[11Jul2024 23:29:48.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.25781986112178856
+[11Jul2024 23:29:48.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.6598916989298687
+[11Jul2024 23:29:49.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.132511464098684
+[11Jul2024 23:29:50.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.36015772835310145
+[11Jul2024 23:29:50.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.797452915087959
+[11Jul2024 23:29:50.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.3445575148154805
+[11Jul2024 23:29:51.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.26024816154085784
+[11Jul2024 23:29:51.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.867494924658331
+[11Jul2024 23:29:51.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 0.47431459067524884
+[11Jul2024 23:29:51.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of shelg0d) moved wrongly! 1.0809057255489734
+[11Jul2024 23:30:24.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> en casa
+[11Jul2024 23:30:45.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> aguaaa
+[11Jul2024 23:33:38.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/54110, l='ServerLevel[world]', x=-748.70, y=69.09, z=1621.49] died, message: 'Farmer was sniped by Archer'
+[11Jul2024 23:35:13.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/54097, l='ServerLevel[world]', x=-737.86, y=65.00, z=1561.40] died, message: 'Unemployed was sniped by Archer'
