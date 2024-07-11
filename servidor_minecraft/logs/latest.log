@@ -587,3 +587,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Jul2024 22:11:11.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> asada
 [11Jul2024 22:13:48.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=243, y=-47, z=618} BlockPos{x=243, y=-47, z=616}
 [11Jul2024 22:13:58.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=-52, z=599} BlockPos{x=251, y=-52, z=600}
+[11Jul2024 22:15:16.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=-53, z=585} BlockPos{x=253, y=-52, z=584}
+[11Jul2024 22:15:24.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> wtf asada goood
+[11Jul2024 22:15:30.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> con reparacion diamante super encantda
+[11Jul2024 22:16:27.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=-49, z=483} BlockPos{x=228, y=-50, z=483}
+[11Jul2024 22:21:54.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> si
+[11Jul2024 22:22:08.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> creo que 2
+[11Jul2024 22:23:50.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> i hay
+[11Jul2024 22:24:51.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=66, y=-51, z=594} BlockPos{x=66, y=-52, z=594}
+[11Jul2024 22:26:15.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=-49, z=497} BlockPos{x=81, y=-51, z=496}
+[11Jul2024 22:26:34.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=-50, z=496} BlockPos{x=134, y=-49, z=497}
+[11Jul2024 22:26:34.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=-50, z=496} BlockPos{x=134, y=-48, z=497}
+[11Jul2024 22:27:25.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=150, y=-52, z=507} BlockPos{x=149, y=-52, z=508}
+[11Jul2024 22:27:41.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=-52, z=492} BlockPos{x=165, y=-52, z=491}
+[11Jul2024 22:27:54.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=159, y=-52, z=498} BlockPos{x=160, y=-53, z=498}
+[11Jul2024 22:30:00.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=-52, z=497} BlockPos{x=195, y=-53, z=498}
+[11Jul2024 22:32:44.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Once Upon a Cave]
+[11Jul2024 22:32:51.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Once Upon a Cave]
+[11Jul2024 22:32:51.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> agarra pa el logro
+[11Jul2024 22:33:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> las tabletas las lelvas tu?
+[11Jul2024 22:33:22.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> tut ieens
+[11Jul2024 22:33:25.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> tu tienews las tabletas
+[11Jul2024 22:33:46.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> las llevaras no?
+[11Jul2024 22:33:55.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> tu las tiens
+[11Jul2024 22:34:21.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=200, y=-50, z=490} BlockPos{x=198, y=-49, z=490}
+[11Jul2024 22:35:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> si
+[11Jul2024 22:36:33.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=-51, z=513} BlockPos{x=275, y=-52, z=510}
+[11Jul2024 22:37:25.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=-52, z=524} BlockPos{x=228, y=-53, z=523}
+[11Jul2024 22:38:06.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=-52, z=518} BlockPos{x=202, y=-53, z=518}
+[11Jul2024 22:40:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> dionde me salga un warden ahi falta loot xd
+[11Jul2024 22:40:11.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=-52, z=548} BlockPos{x=136, y=-52, z=551}
+[11Jul2024 22:40:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> que dicen
+[11Jul2024 22:40:32.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> sui
