@@ -515,3 +515,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Jul2024 21:15:13.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> no se donde habia un tercer chillador
 [11Jul2024 21:19:41.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> que fue
 [11Jul2024 21:22:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> tmr mi micro esta mal
+[11Jul2024 21:27:29.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[11Jul2024 21:27:29.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[11Jul2024 21:29:06.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=264, y=-48, z=556} BlockPos{x=264, y=-49, z=555}
+[11Jul2024 21:30:12.908] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b73561c[id=<null>,name=lakchapatos,properties={},legacy=false] (/127.184.0.244:49131) lost connection: Disconnected
+[11Jul2024 21:30:28.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:37873] logged in with entity id 21520 at (196.75021283680496, -46.0, 608.70886556428)
+[11Jul2024 21:30:28.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[11Jul2024 21:30:28.456] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[11Jul2024 21:31:20.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> warden pete
+[11Jul2024 21:31:27.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> mi micro se malogro parece
+[11Jul2024 21:32:15.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> no se que pasa
+[11Jul2024 21:32:24.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> osea con el micro
+[11Jul2024 21:33:20.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> no
