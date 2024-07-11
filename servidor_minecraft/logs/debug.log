@@ -6331,3 +6331,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Jul2024 22:54:20.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jul2024 22:54:21.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> si ven
 [11Jul2024 22:54:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> por eso ven
+[11Jul2024 22:56:17.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> bueno ahora a casa
+[11Jul2024 22:59:20.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2024 22:59:21.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 23:03:19.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d moved too quickly! -9.904324496470167,0.20326439933128881,1.852197108891005
+[11Jul2024 23:03:41.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> llegue
+[11Jul2024 23:04:18.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> si creo
+[11Jul2024 23:04:20.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2024 23:04:20.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2024 23:04:43.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> cuidado con creepers al entrar a casa
+[11Jul2024 23:04:45.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> hay bastantes
