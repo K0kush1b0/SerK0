@@ -574,3 +574,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Jul2024 22:01:09.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> quiero encantar algo xd
 [11Jul2024 22:02:42.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> pero yo casi no estoy picando skul esa cosa, solo los chilladores
 [11Jul2024 22:04:23.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=-53, z=544} BlockPos{x=103, y=-52, z=547}
+[11Jul2024 22:05:37.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=-52, z=578} BlockPos{x=98, y=-53, z=577}
+[11Jul2024 22:06:48.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=-52, z=564} BlockPos{x=128, y=-52, z=565}
+[11Jul2024 22:06:50.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=-52, z=565} BlockPos{x=134, y=-52, z=568}
+[11Jul2024 22:06:51.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=-51, z=564} BlockPos{x=134, y=-52, z=564}
+[11Jul2024 22:06:51.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=-52, z=564} BlockPos{x=134, y=-52, z=564}
+[11Jul2024 22:08:44.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> qe insistente el tipo crj
+[11Jul2024 22:08:49.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> ojala asi fueran las mujeres xd
+[11Jul2024 22:09:04.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> me viene correteando hace 1 min sin exageran
+[11Jul2024 22:10:07.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> comida triens?
+[11Jul2024 22:11:09.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> asda
+[11Jul2024 22:11:11.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shelg0d> asada
+[11Jul2024 22:13:48.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=243, y=-47, z=618} BlockPos{x=243, y=-47, z=616}
+[11Jul2024 22:13:58.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=-52, z=599} BlockPos{x=251, y=-52, z=600}
