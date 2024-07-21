@@ -4678,3 +4678,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21Jul2024 02:02:09.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jul2024 02:07:09.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jul2024 02:07:09.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2024 02:11:26.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Spooky Scary Skeleton]
+[21Jul2024 02:12:06.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Wither Skeleton
+[21Jul2024 02:12:06.763] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[21Jul2024 02:12:06.772] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[21Jul2024 02:12:09.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2024 02:12:09.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2024 02:12:35.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Wither Skeleton
+[21Jul2024 02:12:36.343] [Server thread/DEBUG] [tombstone/]: A new grave of the player lakchapatos was created at position [x:-156, y:74, z:123, dim:minecraft:the_nether]
+[21Jul2024 02:12:52.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8844, l='ServerLevel[world]', x=-727.92, y=64.00, z=1537.30] died, message: 'Unemployed was sniped by Archer'
+[21Jul2024 02:17:09.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2024 02:17:09.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2024 02:22:09.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2024 02:22:09.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2024 02:27:09.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2024 02:27:09.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2024 02:29:18.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[21Jul2024 02:29:18.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game

@@ -330,6 +330,7 @@
       "cabbage": "2024-07-08 21:03:13 +0000",
       "beetroot": "2024-07-08 16:49:14 +0000",
       "potato": "2024-07-02 03:22:49 +0000",
+      "nether_wart": "2024-07-21 02:09:21 +0000",
       "wheat": "2024-07-02 03:23:00 +0000",
       "pumpkin": "2024-07-08 21:03:10 +0000"
     },
@@ -532,17 +533,47 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-07-21 01:23:28 +0000"
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
+  },
   "quark:apply_color_rune": {
     "criteria": {
       "rune_blank": "2024-07-21 01:57:55 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
@@ -556,6 +587,12 @@
       "requirement": "2024-07-21 01:21:51 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -576,6 +613,18 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-07-21 02:11:26 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-07-21 01:21:51 +0000"
@@ -588,11 +637,23 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
+  },
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2024-07-21 01:28:39 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -605,6 +666,24 @@
       "blaze_rod": "2024-07-21 01:26:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-21 02:29:09 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
