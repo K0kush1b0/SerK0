@@ -420,3 +420,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21Jul2024 01:26:49.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Into Fire]
 [21Jul2024 01:28:39.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Strange Biomes]
 [21Jul2024 01:28:39.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Hellish Paradise]
+[21Jul2024 01:31:36.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [The Dust Settles]

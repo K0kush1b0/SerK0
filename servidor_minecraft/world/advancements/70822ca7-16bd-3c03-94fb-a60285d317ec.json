@@ -557,9 +557,34 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-07-21 01:31:36 +0000",
+      "incendium:quartz_flats": "2024-07-21 01:28:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2024-07-21 01:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-07-21 01:21:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2024-07-21 01:31:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2024-07-21 01:28:39 +0000"
     },
     "done": true
   },
