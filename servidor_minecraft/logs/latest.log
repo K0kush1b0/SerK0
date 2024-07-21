@@ -421,3 +421,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21Jul2024 01:28:39.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Strange Biomes]
 [21Jul2024 01:28:39.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Hellish Paradise]
 [21Jul2024 01:31:36.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [The Dust Settles]
+[21Jul2024 01:50:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Zombified Piglin
+[21Jul2024 01:50:53.732] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[21Jul2024 01:50:53.789] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[21Jul2024 01:51:53.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Zombified Piglin
+[21Jul2024 01:51:57.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[21Jul2024 01:55:01.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6060, l='ServerLevel[world]', x=-766.50, y=71.00, z=1487.03] died, message: 'Unemployed was sniped by Archer'
+[21Jul2024 01:55:49.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6062, l='ServerLevel[world]', x=-760.03, y=65.00, z=1518.38] died, message: 'Unemployed was sniped by Archer'
+[21Jul2024 01:57:55.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Glorious Eminence]
