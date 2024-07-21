@@ -151,6 +151,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-06-30 02:57:52 +0000",
+      "minecraft:blaze": "2024-07-21 01:26:33 +0000",
       "minecraft:skeleton": "2024-06-30 02:50:14 +0000",
       "minecraft:spider": "2024-06-30 04:20:56 +0000",
       "minecraft:creeper": "2024-07-02 03:25:16 +0000",
@@ -158,6 +159,7 @@
       "minecraft:wither_skeleton": "2024-07-02 01:32:44 +0000",
       "minecraft:husk": "2024-07-06 03:28:21 +0000",
       "minecraft:cave_spider": "2024-07-06 17:08:31 +0000",
+      "minecraft:piglin": "2024-07-21 01:22:36 +0000",
       "minecraft:enderman": "2024-07-08 20:42:14 +0000",
       "minecraft:zombie": "2024-06-30 02:50:35 +0000",
       "minecraft:drowned": "2024-07-08 19:45:10 +0000",
@@ -527,6 +529,49 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-07-11 22:32:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-07-21 01:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-07-21 01:24:14 +0000",
+      "minecraft:soul_sand_valley": "2024-07-21 01:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-07-21 01:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-07-21 01:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-07-21 01:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-07-21 01:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-07-21 01:26:49 +0000"
     },
     "done": true
   },
