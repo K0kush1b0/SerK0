@@ -4646,3 +4646,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Aug2024 16:06:30.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [We Need to Go Deeper]
 [02Aug2024 16:06:30.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
 [02Aug2024 16:06:48.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2892ms or 57 ticks behind
+[02Aug2024 16:07:53.914] [Worker-Main-11/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Aug2024 16:07:53.918] [Worker-Main-11/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Aug2024 16:08:24.588] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockStatePairKeyMixin from canary.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[02Aug2024 16:09:01.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [The Dust Settles]
+[02Aug2024 16:09:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Strange Biomes]
+[02Aug2024 16:09:11.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Disconnected
+[02Aug2024 16:09:11.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[02Aug2024 16:09:27.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Aug2024 16:09:27.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Aug2024 16:09:35.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Aug2024 16:09:35.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Aug2024 16:09:35.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Aug2024 16:09:35.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Aug2024 16:09:35.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Aug2024 16:09:38.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Aug2024 16:09:38.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Aug2024 16:09:38.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Aug2024 16:09:38.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Aug2024 16:09:38.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Aug2024 16:09:38.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Aug2024 16:09:38.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Aug2024 16:09:38.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Aug2024 16:09:39.017] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[02Aug2024 16:09:39.025] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
