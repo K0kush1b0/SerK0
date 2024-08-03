@@ -122,13 +122,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-06-30 02:57:20 +0000",
+      "minecraft:blaze": "2024-08-03 04:16:02 +0000",
       "minecraft:skeleton": "2024-06-30 01:48:10 +0000",
       "minecraft:ravager": "2024-07-02 01:51:49 +0000",
+      "minecraft:ghast": "2024-08-03 04:13:16 +0000",
       "minecraft:magma_cube": "2024-08-03 03:21:13 +0000",
       "minecraft:spider": "2024-06-30 01:49:39 +0000",
       "minecraft:piglin_brute": "2024-08-03 03:26:27 +0000",
       "minecraft:creeper": "2024-06-30 02:11:13 +0000",
       "quark:forgotten": "2024-07-10 15:41:36 +0000",
+      "minecraft:wither_skeleton": "2024-08-03 04:12:56 +0000",
       "minecraft:husk": "2024-07-06 03:28:33 +0000",
       "minecraft:cave_spider": "2024-07-06 17:03:45 +0000",
       "minecraft:piglin": "2024-08-03 03:21:53 +0000",
@@ -560,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-08-03 04:13:16 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-08-03 03:36:30 +0000"
@@ -581,6 +590,18 @@
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2024-08-03 04:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-08-03 04:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-08-03 04:12:48 +0000"
     },
     "done": true
   },

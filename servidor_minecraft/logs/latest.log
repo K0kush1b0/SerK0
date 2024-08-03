@@ -431,3 +431,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 03:39:52.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [It Belongs in a Museum]
 [03Aug2024 03:43:11.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Who is Cutting Onions?]
 [03Aug2024 04:05:16.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Hellish Paradise]
+[03Aug2024 04:10:45.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [A Terrible Fortress]
+[03Aug2024 04:11:52.942] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/8424, l='ServerLevel[world]', x=58.58, y=37.00, z=331.45] died: Skeleton Brother withered away
+[03Aug2024 04:12:48.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Ol' Betsy]
+[03Aug2024 04:13:16.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has completed the challenge [Return to Sender]
+[03Aug2024 04:16:33.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Wither Skeleton
+[03Aug2024 04:16:33.789] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[03Aug2024 04:16:33.799] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[03Aug2024 04:18:29.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos tried to swim in lava to escape shelg0d
+[03Aug2024 04:18:29.086] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[03Aug2024 04:18:29.089] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[03Aug2024 04:18:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [The Floor is Tears]
+[03Aug2024 04:20:02.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d tried to swim in lava
+[03Aug2024 04:20:02.398] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[03Aug2024 04:20:02.427] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[03Aug2024 04:20:12.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d burned to death
+[03Aug2024 04:20:12.309] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[03Aug2024 04:20:12.311] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
