@@ -599,3 +599,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 05:42:39.775] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
 [03Aug2024 05:47:42.395] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at 2538 -56 5933 in 2s
 [03Aug2024 05:47:42.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[03Aug2024 06:03:00.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Lorem Ipsum]
+[03Aug2024 06:04:42.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Zombie
+[03Aug2024 06:04:42.590] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[03Aug2024 06:04:42.617] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[03Aug2024 06:06:14.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Disconnected
+[03Aug2024 06:06:14.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[03Aug2024 06:06:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Aug2024 06:06:25.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Aug2024 06:06:25.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Aug2024 06:06:25.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Server closed
+[03Aug2024 06:06:25.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[03Aug2024 06:06:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Aug2024 06:06:25.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Aug2024 06:06:30.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Aug2024 06:06:30.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Aug2024 06:06:30.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Aug2024 06:06:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Aug2024 06:06:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Aug2024 06:06:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Aug2024 06:06:30.953] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
