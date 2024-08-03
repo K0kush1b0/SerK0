@@ -429,3 +429,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 03:36:32.525] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
 [03Aug2024 03:39:41.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [War Pigs]
 [03Aug2024 03:39:52.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [It Belongs in a Museum]
+[03Aug2024 03:43:11.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Who is Cutting Onions?]

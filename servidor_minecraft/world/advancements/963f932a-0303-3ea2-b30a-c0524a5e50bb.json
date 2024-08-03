@@ -571,5 +571,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-08-03 03:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-08-03 03:39:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
