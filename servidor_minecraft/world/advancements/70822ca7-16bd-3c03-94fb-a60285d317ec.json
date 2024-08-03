@@ -153,6 +153,7 @@
       "minecraft:pillager": "2024-06-30 02:57:52 +0000",
       "minecraft:blaze": "2024-07-21 01:26:33 +0000",
       "minecraft:skeleton": "2024-06-30 02:50:14 +0000",
+      "minecraft:magma_cube": "2024-08-03 03:21:43 +0000",
       "minecraft:spider": "2024-06-30 04:20:56 +0000",
       "minecraft:creeper": "2024-07-02 03:25:16 +0000",
       "quark:forgotten": "2024-07-10 14:16:06 +0000",
@@ -616,6 +617,12 @@
   "tombstone:adventure/use_guard": {
     "criteria": {
       "coded_trigger": "2024-07-21 02:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-08-03 03:22:22 +0000"
     },
     "done": true
   },

@@ -417,3 +417,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 03:18:31.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was shot by Piglin
 [03Aug2024 03:18:31.155] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
 [03Aug2024 03:18:31.233] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[03Aug2024 03:22:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Those Were the Days]
+[03Aug2024 03:22:39.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Those Were the Days]
+[03Aug2024 03:27:16.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [Oh Shiny]
+[03Aug2024 03:28:13.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Oh Shiny]
+[03Aug2024 03:29:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Who is Cutting Onions?]
