@@ -594,3 +594,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 05:40:16.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> no vuelvo en mi vida
 [03Aug2024 05:40:41.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
 [03Aug2024 05:40:41.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[03Aug2024 05:42:39.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:47659] logged in with entity id 33122 at (-920.0406538939761, 71.0, 1456.3061190402366)
+[03Aug2024 05:42:39.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[03Aug2024 05:42:39.775] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[03Aug2024 05:47:42.395] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at 2538 -56 5933 in 2s
+[03Aug2024 05:47:42.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
