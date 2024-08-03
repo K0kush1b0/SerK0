@@ -160,6 +160,7 @@
       "minecraft:piglin_brute": "2024-08-03 03:58:03 +0000",
       "minecraft:creeper": "2024-07-02 03:25:16 +0000",
       "quark:forgotten": "2024-07-10 14:16:06 +0000",
+      "minecraft:zombified_piglin": "2024-08-03 05:18:18 +0000",
       "minecraft:wither_skeleton": "2024-07-02 01:32:44 +0000",
       "minecraft:husk": "2024-07-06 03:28:21 +0000",
       "minecraft:cave_spider": "2024-07-06 17:08:31 +0000",
@@ -650,6 +651,18 @@
   "incendium:quartz_flats/floor_is_tears": {
     "criteria": {
       "requirement": "2024-08-03 04:21:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-08-03 05:08:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-08-03 05:08:25 +0000"
     },
     "done": true
   },

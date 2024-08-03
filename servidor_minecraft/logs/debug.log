@@ -5611,3 +5611,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 05:11:07.405] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
 [03Aug2024 05:11:17.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d burned to death
 [03Aug2024 05:11:17.074] [Server thread/DEBUG] [tombstone/]: A new grave of the player shelg0d was created at position [x:-920, y:71, z:1456, dim:minecraft:overworld]
+[03Aug2024 05:11:47.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 05:11:47.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 05:13:48.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos withered away
+[03Aug2024 05:13:48.448] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[03Aug2024 05:13:48.453] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[03Aug2024 05:14:03.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos withered away
+[03Aug2024 05:14:03.380] [Server thread/DEBUG] [tombstone/]: A new grave of the player lakchapatos was created at position [x:-10, y:75, z:111, dim:minecraft:the_nether]
+[03Aug2024 05:14:49.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> estoy lejos
+[03Aug2024 05:16:24.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Into Fire]
+[03Aug2024 05:16:39.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> sabes mas o menos donde está el portal?
+[03Aug2024 05:16:41.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> xd
+[03Aug2024 05:16:47.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 05:16:47.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 05:16:56.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> sii
+[03Aug2024 05:17:27.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> hay 3 esqueletos
+[03Aug2024 05:19:23.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Zombified Piglin
+[03Aug2024 05:19:23.294] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[03Aug2024 05:19:23.368] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[03Aug2024 05:19:42.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> es q le dispare a un blaze
+[03Aug2024 05:19:51.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> y se cruzo un piglin de esos
+[03Aug2024 05:19:59.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> eran muchos
+[03Aug2024 05:20:20.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> ntp
+[03Aug2024 05:20:23.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Zombified Piglin
+[03Aug2024 05:20:23.247] [Server thread/DEBUG] [tombstone/]: A new grave of the player lakchapatos was created at position [x:-7, y:75, z:111, dim:minecraft:the_nether]
+[03Aug2024 05:20:26.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[03Aug2024 05:21:49.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 05:21:49.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 05:21:49.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> xd
