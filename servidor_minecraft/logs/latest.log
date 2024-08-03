@@ -579,3 +579,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 05:29:26.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> villagers
 [03Aug2024 05:29:32.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> en nuestra casa
 [03Aug2024 05:31:57.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/30347, l='ServerLevel[world]', x=-723.50, y=64.00, z=1473.11] died, message: 'Farmer was sniped by Archer'
+[03Aug2024 05:33:14.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> blaze de mrd
+[03Aug2024 05:35:12.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> abajo
+[03Aug2024 05:35:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> alla
+[03Aug2024 05:38:33.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> carga ignea
+[03Aug2024 05:38:42.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was burnt to a crisp whilst fighting Blaze
+[03Aug2024 05:38:42.192] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[03Aug2024 05:38:42.219] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[03Aug2024 05:38:54.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was fireballed by Blaze
+[03Aug2024 05:38:54.792] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[03Aug2024 05:38:54.808] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[03Aug2024 05:40:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> el blaze lo prendio
+[03Aug2024 05:40:06.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> esto quito vida xd
+[03Aug2024 05:40:16.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lakchapatos> no vuelvo en mi vida
+[03Aug2024 05:40:41.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[03Aug2024 05:40:41.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
