@@ -626,6 +626,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-08-03 05:06:30 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2024-08-03 04:45:47 +0000"
