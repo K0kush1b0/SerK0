@@ -448,3 +448,55 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 04:20:12.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d burned to death
 [03Aug2024 04:20:12.309] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
 [03Aug2024 04:20:12.311] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[03Aug2024 04:21:23.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos has made the advancement [The Floor is Tears]
+[03Aug2024 04:22:06.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d burned to death
+[03Aug2024 04:22:06.457] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[03Aug2024 04:22:06.458] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[03Aug2024 04:22:26.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was burnt to a crisp whilst fighting Ghast
+[03Aug2024 04:22:26.239] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[03Aug2024 04:22:26.262] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[03Aug2024 04:22:31.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has completed the challenge [Almost Unkillable]
+[03Aug2024 04:22:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d walked into fire whilst fighting Ghast
+[03Aug2024 04:22:31.734] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[03Aug2024 04:23:10.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d was kicked for floating too long!
+[03Aug2024 04:23:11.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Flying is not enabled on this server
+[03Aug2024 04:23:11.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[03Aug2024 04:23:29.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shelg0d[/127.51.63.183:60887] logged in with entity id 11575 at (-72.06957470949271, 47.16049238931867, 126.67509620268892)
+[03Aug2024 04:23:29.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d joined the game
+[03Aug2024 04:23:29.364] [Server thread/INFO] [Jade/]: Syncing config to shelg0d (963f932a-0303-3ea2-b30a-c0524a5e50bb)
+[03Aug2024 04:26:51.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d is bleeding. shelg0d was slain by Wither Skeleton
+[03Aug2024 04:26:51.470] [Server thread/WARN] [tombstone/]: The death event of the player shelg0d was canceled by another mod
+[03Aug2024 04:26:51.483] [Server thread/INFO] [tombstone/]: The player shelg0d has successfully been saved
+[03Aug2024 04:27:04.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d was slain by Wither Skeleton
+[03Aug2024 04:28:19.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d was kicked for floating too long!
+[03Aug2024 04:28:19.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shelg0d lost connection: Flying is not enabled on this server
+[03Aug2024 04:28:19.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d left the game
+[03Aug2024 04:28:35.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shelg0d[/127.51.63.183:43871] logged in with entity id 12691 at (-63.65646503348859, 44.315396609585974, 128.96460386758716)
+[03Aug2024 04:28:35.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d joined the game
+[03Aug2024 04:28:35.521] [Server thread/INFO] [Jade/]: Syncing config to shelg0d (963f932a-0303-3ea2-b30a-c0524a5e50bb)
+[03Aug2024 04:29:07.652] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=-45, z=70}
+[03Aug2024 04:29:07.654] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=-45, z=71}
+[03Aug2024 04:29:07.654] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-45, z=72}
+[03Aug2024 04:29:07.654] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-45, z=69}
+[03Aug2024 04:29:15.661] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=53}
+[03Aug2024 04:29:16.067] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=70}
+[03Aug2024 04:29:24.331] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-54, z=56}
+[03Aug2024 04:29:24.925] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-197, y=-53, z=89}
+[03Aug2024 04:29:25.191] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-53, z=95}
+[03Aug2024 04:29:25.217] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-51, z=112}
+[03Aug2024 04:29:25.217] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-51, z=121}
+[03Aug2024 04:34:53.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos withered away whilst fighting Wither Skeleton
+[03Aug2024 04:34:53.899] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[03Aug2024 04:34:53.904] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[03Aug2024 04:35:30.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos withered away
+[03Aug2024 04:36:53.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos tried to swim in lava
+[03Aug2024 04:36:53.386] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[03Aug2024 04:36:53.416] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[03Aug2024 04:36:55.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos tried to swim in lava
+[03Aug2024 04:36:55.362] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[03Aug2024 04:40:01.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos was slain by Wither Skeleton
+[03Aug2024 04:40:01.567] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[03Aug2024 04:40:01.593] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[03Aug2024 04:40:52.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Timed out
+[03Aug2024 04:40:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[03Aug2024 04:40:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Wither Skeleton

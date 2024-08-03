@@ -166,6 +166,7 @@
       "cooked_mutton": "2024-06-30 01:53:22 +0000",
       "cooked_beef": "2024-07-06 03:15:05 +0000",
       "baked_potato": "2024-06-30 03:01:05 +0000",
+      "apple": "2024-08-03 04:32:19 +0000",
       "cooked_cod": "2024-06-30 03:24:23 +0000",
       "pumpkin_pie": "2024-07-02 01:51:37 +0000",
       "bread": "2024-06-30 03:55:00 +0000",
@@ -175,6 +176,7 @@
       "glow_berries": "2024-07-11 20:43:07 +0000",
       "cooked_rabbit": "2024-07-02 03:05:05 +0000",
       "cooked_chicken": "2024-06-30 02:53:49 +0000",
+      "enchanted_golden_apple": "2024-08-03 04:29:57 +0000",
       "cooked_salmon": "2024-06-30 03:06:46 +0000",
       "carrot": "2024-06-30 02:58:57 +0000"
     },
@@ -551,9 +553,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "crying_obsidian": "2024-08-03 03:29:00 +0000"
+      "bastion": "2024-08-03 03:22:39 +0000"
     },
     "done": true
   },
@@ -563,9 +565,9 @@
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "killed_ghast": "2024-08-03 04:13:16 +0000"
+      "crying_obsidian": "2024-08-03 03:29:00 +0000"
     },
     "done": true
   },
@@ -575,9 +577,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "bastion": "2024-08-03 03:22:39 +0000"
+      "loot_bastion_other": "2024-08-03 03:39:41 +0000"
     },
     "done": true
   },
@@ -605,9 +607,21 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
+  "minecraft:nether/return_to_sender": {
     "criteria": {
-      "loot_bastion_other": "2024-08-03 03:39:41 +0000"
+      "killed_ghast": "2024-08-03 04:13:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2024-08-03 04:18:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2024-08-03 04:22:31 +0000"
     },
     "done": true
   },
