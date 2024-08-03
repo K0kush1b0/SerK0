@@ -501,3 +501,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 04:40:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
 [03Aug2024 04:40:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Wither Skeleton
 [03Aug2024 04:45:47.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Lorem Ipsum]
+[03Aug2024 04:57:21.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:47173] logged in with entity id 18804 at (-127.0829539716636, 68.0, 152.87472358041725)
+[03Aug2024 04:57:21.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[03Aug2024 04:57:21.175] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
+[03Aug2024 04:59:39.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos is bleeding. lakchapatos tried to swim in lava
+[03Aug2024 04:59:39.497] [Server thread/WARN] [tombstone/]: The death event of the player lakchapatos was canceled by another mod
+[03Aug2024 04:59:39.505] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[03Aug2024 04:59:41.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos tried to swim in lava
+[03Aug2024 04:59:41.502] [Server thread/INFO] [tombstone/]: The player lakchapatos has successfully been saved
+[03Aug2024 05:00:30.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos was kicked for floating too long!
+[03Aug2024 05:00:30.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Disconnected
+[03Aug2024 05:00:30.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
+[03Aug2024 05:00:30.972] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Aug2024 05:00:55.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lakchapatos[/127.184.0.244:40585] logged in with entity id 20033 at (-47.54797522880759, 46.16049238931867, 137.25169722350736)
+[03Aug2024 05:00:55.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos joined the game
+[03Aug2024 05:00:55.565] [Server thread/INFO] [Jade/]: Syncing config to lakchapatos (70822ca7-16bd-3c03-94fb-a60285d317ec)
