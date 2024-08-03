@@ -5246,3 +5246,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 04:40:52.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lakchapatos lost connection: Timed out
 [03Aug2024 04:40:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos left the game
 [03Aug2024 04:40:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lakchapatos was slain by Wither Skeleton
+[03Aug2024 04:41:45.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 04:41:45.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 04:45:47.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Lorem Ipsum]
+[03Aug2024 04:46:45.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 04:46:45.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
