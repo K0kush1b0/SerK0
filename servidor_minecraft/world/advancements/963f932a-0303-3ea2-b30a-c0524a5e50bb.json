@@ -531,7 +531,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2024-08-02 16:09:01 +0000"
+      "incendium:ash_barrens": "2024-08-02 16:09:01 +0000",
+      "incendium:quartz_flats": "2024-08-03 04:05:16 +0000"
     },
     "done": false
   },
@@ -574,6 +575,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-08-03 03:39:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2024-08-03 04:05:16 +0000"
     },
     "done": true
   },

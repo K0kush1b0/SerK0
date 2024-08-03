@@ -4840,3 +4840,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Aug2024 03:51:45.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Aug2024 03:56:45.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Aug2024 03:56:45.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 04:01:45.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 04:01:45.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 04:05:13.320] [Worker-Main-8/DEBUG] [mixin/]: Mixing NetherFortressPiecesMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.structures.NetherFortressPieces
+[03Aug2024 04:05:16.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shelg0d has made the advancement [Hellish Paradise]
+[03Aug2024 04:06:45.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 04:06:45.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
